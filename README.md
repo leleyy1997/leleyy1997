@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @leleyy1997
 - 👀 I’m interested in JAVA 、GO and GAME
 - 🌱 I’m currently learning JAVA
+- ✨  https://blog.l2yy.cn
 - 🏭 Working in HUPU
 
 <!---
