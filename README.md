@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA 、GO and GAME
 - 🌱 I’m currently learning JAVA
 - ✨  https://blog.l2yy.cn
-- 🏭 Working in HUPU
+- 🏭 Working in bilibili
 
 <!---
 leleyy1997/leleyy1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
